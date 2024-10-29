@@ -27,4 +27,4 @@ Antes de ejecutar el código, asegúrate de tener instalados los siguientes comp
 1. Iniciar Spark: Asegúrate de que tu entorno Spark esté correctamente configurado y que los servicios necesarios estén en ejecución.
 2. Ejecutar el Script: Ejecuta el script en un entorno que soporte PySpark:
   ```bash
-  spark-submit analisis_estudiantes.py
+  spark-submit students_data_analysis.py
